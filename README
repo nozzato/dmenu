@@ -1,10 +1,10 @@
 Arch installation instructions
 ==============================
-cd sources
-git clone https://github.com/nozzato/dmenu.git
-cd dmenu
-cp config.def.h config.h
-sudo make clean install
+Clone the repository
+$ git clone https://github.com/nozzato/dmenu.git
+
+Install dmenu
+# make clean install
 
 
 dmenu - dynamic menu
