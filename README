@@ -7,6 +7,11 @@ Install dmenu
 # make clean install
 
 
+Patches
+-------
+caseinsensitive
+
+
 dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
